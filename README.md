@@ -8,5 +8,5 @@ Windows 定时随机截图小工具（Rust，单文件 exe，约 340 KB）。
 shotter.exe [总分钟=60] [区间分钟=10] [输出目录=screenshots]
 ```
 
-- 下载：`dist/shotter.exe`
+- 下载：见 [Releases](../../releases)（推送 `v*` tag 后由 GitHub Actions 自动编译发布）
 - 自行编译：`cargo build --release`（在 Windows 上）
